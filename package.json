@@ -1,0 +1,21 @@
+{
+  "name": "god-is-a-woman-dark",
+  "displayName": "God Is A Woman Dark",
+  "description": "God Is A Woman Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "God Is A Woman Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/God Is A Woman Dark-color-theme.json"
+      }
+    ]
+  }
+}
